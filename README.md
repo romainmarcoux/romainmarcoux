@@ -1,4 +1,5 @@
 # [FR] Infos
+Sur GitHub, je maintiens une [agrégation](https://github.com/romainmarcoux/malicious-ip) de listes d'adresses IP malicieuses que vous pouvez intégrer sur vos systèmes (pare-feux, serveurs Web, WAF, proxy ...).
 
 Je propose mon expertise en cybersécurité (audit, conseil, intégration) en tant que freelance à des clients finaux et en sous-traitance à des partenaires en manque de ressources ou d'expertise.
 
@@ -9,6 +10,8 @@ Je propose mon expertise en cybersécurité (audit, conseil, intégration) en ta
 📞📧 Pour tous vos besoins en cybersécurité, n'hésitez pas à me contacter via LinkedIn : [mon profil](https://linkedin.com/in/romainmarcoux/)
 
 # [EN] Infos
+
+On GitHub, I maintain an [aggregation](https://github.com/romainmarcoux/malicious-ip) of lists of malicious IP addresses that you can integrate into your systems (firewalls, web servers, WAF, proxy...).
 
 I offer my expertise in cybersecurity as a freelancer to end customers and as a subcontractor to partners lacking resources or expertise.
 

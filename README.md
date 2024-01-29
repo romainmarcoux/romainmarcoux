@@ -1,5 +1,5 @@
 # [FR] Infos
-Sur GitHub, je maintiens une [agrégation](https://github.com/romainmarcoux/malicious-ip) de listes d'adresses IP malicieuses que vous pouvez intégrer sur vos systèmes (pare-feux, serveurs Web, WAF, proxy ...).
+Sur GitHub, je maintiens une [agrégation](https://github.com/romainmarcoux/malicious-ip) de listes d'adresses IP malveillantes que vous pouvez intégrer sur vos systèmes (pare-feux, serveurs Web, WAF, proxy ...).
 
 Je propose mon expertise en cybersécurité (audit, conseil, intégration) en tant que __freelance__ à des **clients finaux** et en sous-traitance à des **partenaires** en manque de ressources ou d'expertise.
 

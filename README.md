@@ -1,5 +1,8 @@
 # [FR] Infos
-Sur GitHub, je maintiens une [agrégation](https://github.com/romainmarcoux/malicious-ip) de listes d'adresses IP malveillantes que vous pouvez intégrer sur vos systèmes (pare-feux, serveurs Web, WAF, proxy ...).
+Sur GitHub, je maintiens des agrégations d'éléments malveillants que vous pouvez intégrer sur vos systèmes (pare-feux, serveurs Web, WAF, proxy ...) :
+- [malicious-ip](https://github.com/romainmarcoux/malicious-ip) : agrégation d'adresses IP malveillantes à bloquer en entrée dans le sens WAN > LAN (scanners, bruteforce ...)
+- [malicious-domains](https://github.com/romainmarcoux/malicious-domains) : agrégation de domaines malveillants (phishing / hameçonnage, malware ...) à bloquer en sortie dans le sens LAN > WAN (sur les pare-feux FortiGate, peut être implémenté dans les profils DNS Filter)
+- [malicious-hash](https://github.com/romainmarcoux/malicious-hash) : agrégation d'empreintes (hash) de fichiers malveillants (sur les pare-feux FortiGate, peut être implémenté dans les profils AntiVirus)
 
 Je propose mon expertise en cybersécurité (audit, conseil, intégration) en tant que __freelance__ à des **clients finaux** et en sous-traitance à des **partenaires** en manque de ressources ou d'expertise.
 
@@ -11,7 +14,10 @@ Je propose mon expertise en cybersécurité (audit, conseil, intégration) en ta
 
 # [EN] Infos
 
-On GitHub, I maintain an [aggregation](https://github.com/romainmarcoux/malicious-ip) of lists of malicious IP addresses that you can integrate into your systems (firewalls, web servers, WAF, proxy...).
+On GitHub, I maintain aggregations of malicious elements that you can integrate into your systems (firewalls, web servers, WAF, proxy...):
+- [malicious-ip](https://github.com/romainmarcoux/malicious-ip) : aggregation of malicious IP addresses to be blocked at entry in the WAN > LAN direction (scanners, bruteforce, etc.)
+- [malicious-domains](https://github.com/romainmarcoux/malicious-domains) : aggregation of malicious domains (phishing / phishing, malware, etc.) to be blocked at output in the LAN > WAN direction (on FortiGate firewalls, can be implemented in DNS Filter profiles)
+- [malicious-hash](https://github.com/romainmarcoux/malicious-hash) : aggregation of hashes of malicious files (on FortiGate firewalls, can be implemented in AntiVirus profiles)
 
 I offer my expertise in cybersecurity as a __freelancer__ to **end customers** and as a **subcontractor** to partners lacking resources or expertise.
 
